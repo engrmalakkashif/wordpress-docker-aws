@@ -579,7 +579,7 @@ For a real production deployment, consider:
 
 The current project uses a **single EC2 instance**, so it is not fully highly available.
 
-However, the architecture can be extended.
+However, you can extend the architecture.
 
 A future HA architecture could look like:
 
@@ -731,10 +731,10 @@ Possible next versions:
 
 DevOps Engineer
 
-GitHub: `https://github.com/YOUR_USERNAME`
+GitHub: `https://github.com/engrmalakkashif/`
 
 ---
 
 ## ⭐ If you found this project useful
 
-Give the repository a star ⭐ and feel free to fork it for your own learning.
+Star the repository ⭐ and feel free to fork it for your own learning.
